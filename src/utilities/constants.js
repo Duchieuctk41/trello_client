@@ -2,7 +2,7 @@
  * Created by hieuhoccode.com's author on 04/11/2021
  */
 
-export const API_ROOT = 'http://localhost:5000'
+export const API_ROOT = 'http://localhost:8000'
 // export const API_ROOT = 'https://trello-hieuhoccode-api.herokuapp.com'
 
 export const MODAL_ACTION_CLOSE = 'MODAL_ACTION_CLOSE'
