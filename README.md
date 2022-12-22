@@ -19,7 +19,7 @@ $ yarn start
 
 https://hieuhoccode.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong/
 
-Author: Trung Quân
+Author: Hieuhoccode
 
 Blog: https://hieuhoccode.com/
 

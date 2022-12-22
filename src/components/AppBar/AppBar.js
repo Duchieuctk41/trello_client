@@ -69,7 +69,7 @@ function AppBar() {
           <Col md={2} sm={2} xs={12} className="col-no-padding">
             <div className="app-branding text-center">
               <a href="https://hieuhoccode.com" target="blank">
-                <img src={hieuhoccodeLogo} className="top-logo" alt="trunguandev-logo" />
+                <img src={hieuhoccodeLogo} className="top-logo" alt="hieuhoccode-logo" />
                 <span className="hieuhoccode-slogan">hieuhoccode</span>
               </a>
             </div>
